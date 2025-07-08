@@ -1,9 +1,7 @@
 # 🛡️ Phishing URL Detector (Java)
 
 Hey! 👋  
-This is a simple Java-based project I built to detect phishing websites. It checks URLs and tells you if they look suspicious or safe. I made it as part of my cybersecurity learning in 3rd year BTech (CSE).
-
----
+This is a simple Java-based project I built to detect phishing websites. It checks URLs and tells you if they look suspicious or safe.
 
 ## 🔍 What it Does
 
